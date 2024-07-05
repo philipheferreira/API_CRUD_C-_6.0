@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XIv/Bs6+K5bKIx3k6/pcJHBUK9HJj19Mz1J7fZwmu5Has1rSw2Yy3ddrA8/yQxsUKL2604E3TfExSb1bjLc0tQ==",
+  "dgSpecHash": "v1RnKxNtPcNxWlYqKKln6Wx/l9OLENr3L5EuHqm948VAQYBm8hnCSv4H9CwVAev1Pjc3xFPF2/6scutkRJ2wmg==",
   "success": true,
-  "projectFilePath": "D:\\Users\\phili\\Documents\\estudo\\C#\\APIs\\APICRUD\\APICRUD\\APICRUD.csproj",
+  "projectFilePath": "D:\\Users\\phili\\Documents\\estudo\\C#\\APIs\\API_CRUD_C-_6.0\\APICRUD\\APICRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phili\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\phili\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

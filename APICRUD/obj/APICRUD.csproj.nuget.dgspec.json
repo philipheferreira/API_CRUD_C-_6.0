@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\phili\\Documents\\estudo\\C#\\APIs\\APICRUD\\APICRUD\\APICRUD.csproj": {}
+    "D:\\Users\\phili\\Documents\\estudo\\C#\\APIs\\API_CRUD_C-_6.0\\APICRUD\\APICRUD.csproj": {}
   },
   "projects": {
-    "D:\\Users\\phili\\Documents\\estudo\\C#\\APIs\\APICRUD\\APICRUD\\APICRUD.csproj": {
+    "D:\\Users\\phili\\Documents\\estudo\\C#\\APIs\\API_CRUD_C-_6.0\\APICRUD\\APICRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\phili\\Documents\\estudo\\C#\\APIs\\APICRUD\\APICRUD\\APICRUD.csproj",
+        "projectUniqueName": "D:\\Users\\phili\\Documents\\estudo\\C#\\APIs\\API_CRUD_C-_6.0\\APICRUD\\APICRUD.csproj",
         "projectName": "APICRUD",
-        "projectPath": "D:\\Users\\phili\\Documents\\estudo\\C#\\APIs\\APICRUD\\APICRUD\\APICRUD.csproj",
+        "projectPath": "D:\\Users\\phili\\Documents\\estudo\\C#\\APIs\\API_CRUD_C-_6.0\\APICRUD\\APICRUD.csproj",
         "packagesPath": "C:\\Users\\phili\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\phili\\Documents\\estudo\\C#\\APIs\\APICRUD\\APICRUD\\obj\\",
+        "outputPath": "D:\\Users\\phili\\Documents\\estudo\\C#\\APIs\\API_CRUD_C-_6.0\\APICRUD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\phili\\AppData\\Roaming\\NuGet\\NuGet.Config",
